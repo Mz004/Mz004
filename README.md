@@ -1,6 +1,6 @@
 # Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Manav Zadafiya! 
 
-🎓 I’m a student at **Seneca Polytechnic**, studying Computer Science, constantly learning and coding every day. I have a passion for developing cool projects and exploring new technologies. 🚀
+🎓 I’m a student at **Seneca Polytechnic**, constantly learning and coding every day. I have a passion for developing cool projects and exploring new technologies. 🚀
 
 🌱 Currently, I'm learning **Desktop Application Development** as part of my college curriculum and diving deep into **Next.js** on my own.
 
@@ -41,9 +41,6 @@
 
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mz004&theme=radical)
-
-### 💡 Random Quote of the Day:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
 
 ---
 
