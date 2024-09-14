@@ -1,4 +1,4 @@
-# Hi, I'm Manav Zadafiya! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Manav Zadafiya! 
 
 🎓 I’m a student at **Seneca Polytechnic**, studying Computer Science, constantly learning and coding every day. I have a passion for developing cool projects and exploring new technologies. 🚀
 
