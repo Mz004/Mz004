@@ -45,7 +45,7 @@
 ---
 
 ### 📈 GitHub Stats:
-![Manav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manav-zadafiya&show_icons=true&theme=radical)
+![Manav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mz004&show_icons=true&theme=radical)
 
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mz004&theme=radical)
