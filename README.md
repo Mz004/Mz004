@@ -48,7 +48,7 @@
 ![Manav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manav-zadafiya&show_icons=true&theme=radical)
 
 ### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manav-zadafiya&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mz004&theme=radical)
 
 ### 💡 Random Quote of the Day:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
