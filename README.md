@@ -2,24 +2,22 @@
 
 🎓 I’m a student at **Seneca Polytechnic**, constantly learning and coding every day. I have a passion for developing cool projects and exploring new technologies. 🚀
 
-🌱 Currently, I'm learning **Desktop Application Development** as part of my college curriculum and diving deep into **Next.js** on my own.
-
 ### ⚡ Tech Stack:
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+![](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-### 🚀 What I’m Learning:
+### 🌱 What I’m Learning:
 - **Next.js** (self-taught)
 - **Desktop Application Development** (college curriculum)
 
