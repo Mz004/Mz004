@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" /> I'm Manav Zadafiya</strong></h1>
+  <h1><strong>Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" /> I'm Manav Zadafiya</strong></h1>
   
   🎓 I'm currently a student at ***Seneca Polytechnic***, driven by a passion for programming and building projects. I'm constantly learning, exploring new technologies, and striving to grow as a developer. 🚀
 </div>
