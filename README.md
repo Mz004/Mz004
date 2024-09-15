@@ -50,8 +50,8 @@
 <a href="https://www.facebook.com/profile.php?id=100091952238449&mibextid=ZbWKwL" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" style="padding: 0px 10px 0px 0px" width="32" height="32" /> </picture> </a> 
 <a href="https://www.instagram.com/zadafiya04?igsh=aTBiMjk2aHhvNTdo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" style="padding: 0px 10px 0px 0px" width="32" height="32" /> </picture> </a> 
 </p>
-- **✉️Email**: [manavzadafiya@gmail.com](mailto:manavzadafiya@gmail.com)
-- **🖥️Website**: [Manav Zadafiya](http://manavzadafiya.com) *(Under Development)*
+- ✉️**Email**: [manavzadafiya@gmail.com](mailto:manavzadafiya@gmail.com)
+- 🖥️**Website**: [Manav Zadafiya](http://manavzadafiya.com) *(Under Development)*
 
 
 ---
