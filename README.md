@@ -44,12 +44,23 @@
 ---
 
 ### 📫 How to Reach Me:
-- ✉️**Email**: [manavzadafiya@gmail.com](mailto:manavzadafiya@gmail.com)
-- 🖥️**Website**: [Manav Zadafiya](http://manavzadafiya.com) *(Under Development)*
-- 📲**Social**: 
-<span>
-<a href="https://www.linkedin.com/in/manav-zadafiya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a><a href="https://discord.gg/JSUEJShe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a><a href="https://www.facebook.com/profile.php?id=100091952238449&mibextid=ZbWKwL" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a><a href="https://www.instagram.com/zadafiya04?igsh=aTBiMjk2aHhvNTdo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> 
-</span>
+- ✉️ **Email**: [manavzadafiya@gmail.com](mailto:manavzadafiya@gmail.com)
+- 🖥️ **Website**: [Manav Zadafiya](http://manavzadafiya.com) *(Under Development)*
+- 📲 **Connect with Me**: 
+  <span>
+    <a href="https://www.linkedin.com/in/manav-zadafiya" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    </a>
+    <a href="https://discord.gg/JSUEJShe" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100091952238449&mibextid=ZbWKwL" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+    </a>
+    <a href="https://www.instagram.com/zadafiya04?igsh=aTBiMjk2aHhvNTdo" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+    </a>
+  </span>
 
 ---
 
