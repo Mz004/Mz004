@@ -49,19 +49,18 @@
 - 📲 **Connect with Me**: 
   <span>
     <a href="https://www.linkedin.com/in/manav-zadafiya" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" alt="LinkedIn" />
     </a>
     <a href="https://discord.gg/JSUEJShe" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="18" height="18" alt="Discord" />
     </a>
     <a href="https://www.facebook.com/profile.php?id=100091952238449&mibextid=ZbWKwL" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="18" height="18" alt="Facebook" />
     </a>
     <a href="https://www.instagram.com/zadafiya04?igsh=aTBiMjk2aHhvNTdo" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="18" height="18" alt="Instagram" />
     </a>
   </span>
-
 ---
 
 ### 📈 GitHub Stats:
