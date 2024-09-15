@@ -1,5 +1,6 @@
+<p align="center">
 # Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Manav Zadafiya! 
-
+</p>
 🎓 I’m a student at **Seneca Polytechnic**, constantly learning and coding every day. I have a passion for developing cool projects and exploring new technologies. 🚀
 
 ### ⚡ Tech Stack:
