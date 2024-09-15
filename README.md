@@ -1,6 +1,5 @@
-<div style="font-size: 18px;">
 <div align="center">
-  <h1><strong>Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" /> I'm Manav Zadafiya</strong> 👋</h1>
+  <h1><strong>Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" /> I'm Manav Zadafiya</strong></h1>
   
   🎓 I'm currently a student at ***Seneca Polytechnic***, driven by a passion for programming and building projects. I'm constantly learning, exploring new technologies, and striving to grow as a developer. 🚀
 </div>
@@ -45,28 +44,33 @@
 ---
 
 ### 📫 How to Reach Me:
-
+<p align="left" style="padding: 0px 0px 0px 38px"> 
+<a href="https://www.linkedin.com/in/manav-zadafiya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" style="padding: 0px 10px 0px 0px" width="32" height="32" /> </picture> </a>
+<a href="https://discord.gg/JSUEJShe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding: 0px 10px 0px 0px" width="32" height="32" /> </picture> </a>  
+<a href="https://www.facebook.com/profile.php?id=100091952238449&mibextid=ZbWKwL" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" style="padding: 0px 10px 0px 0px" width="32" height="32" /> </picture> </a> 
+<a href="https://www.instagram.com/zadafiya04?igsh=aTBiMjk2aHhvNTdo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" style="padding: 0px 10px 0px 0px" width="32" height="32" /> </picture> </a> 
+</p>
 - **✉️Email**: [manavzadafiya@gmail.com](mailto:manavzadafiya@gmail.com)
 - **🖥️Website**: [Manav Zadafiya](http://manavzadafiya.com) *(Under Development)*
-<p align="left" style="padding: 0px 0px 0px 38px"> <a href="https://discord.com/users/dddd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding: 0px 10px 0px 0px" width="32" height="32" /> </picture> </a>  
-<a href="https://www.facebook.com/dddd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" style="padding: 0px 10px 0px 0px" width="32" height="32" /> </picture> </a> 
-<a href="http://www.instagram.com/dddd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" style="padding: 0px 10px 0px 0px" width="32" height="32" /> </picture> </a> 
-<a href="https://www.linkedin.com/in/dddd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" style="padding: 0px 10px 0px 0px" width="32" height="32" /> </picture> </a></p>
+
 
 ---
 
 ### 📈 GitHub Stats:
 ![Manav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mz004&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mz004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- ### Languages Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mz004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mz004&theme=radical)
 
+<!-- ### Daily Visitors:
+[![](https://visitcount.itsvg.in/api?id=Mz004&icon=0&color=1)](https://visitcount.itsvg.in) -->
+
 ---
-### ✍️ Random Dev Quote
+### ✍️ Quote of the day: <!--DATE-->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mz004&icon=0&color=1)](https://visitcount.itsvg.in)
 Thanks for stopping by! 😄
-</div>
