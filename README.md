@@ -4,7 +4,7 @@
   🎓 I'm currently a student at ***Seneca Polytechnic***, driven by a passion for programming and building projects. I'm constantly learning, exploring new technologies, and striving to grow as a developer. 🚀
 
 </div>
-🌱 Currently Learning: **Java for Desktop application development**
+🌱 Currently Learning: <strong>Java for Desktop application development</strong>
 
 ---
 
