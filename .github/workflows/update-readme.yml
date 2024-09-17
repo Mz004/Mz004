@@ -2,8 +2,8 @@ name: Update README with Date
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
-    - cron: '0 0 * * *'
+    # Runs at 12:00 AM EST every day (UTC-5)
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,8 +18,11 @@ jobs:
           # Get today's date
           DATE=$(date +"%Y-%m-%d")
           
-          # Replace placeholder with today's date in README.md
-          sed -i "s/<!--DATE-->/📅 Today's Date: $DATE/g" README.md
+          # Replace placeholder with today's date in README.md (backup not needed)
+          sed -i.bak "s/<!--DATE-->/📅 Today's Date: $DATE/g" README.md
+          
+          # Remove the backup file created by sed
+          rm README.md.bak
 
       - name: Commit changes
         run: |
