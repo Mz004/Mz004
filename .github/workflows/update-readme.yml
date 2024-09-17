@@ -3,7 +3,7 @@ name: Update README with Date
 on:
   schedule:
     # Runs at 12:00 AM EST every day (UTC-5)
-    - cron: '25 3 * * *'
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 jobs:
