@@ -3,7 +3,7 @@ name: Update README with Date
 on:
   schedule:
     # Runs at 12:00 AM EST every day (UTC-5)
-    - cron: '0 4 * * *'
+    - cron: '0 5 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to v3
 
       - name: Update README
         run: |
@@ -19,10 +19,14 @@ jobs:
           DATE=$(date +"%Y-%m-%d")
           
           # Replace placeholder with today's date in README.md (backup not needed)
-          sed -i.bak "s/<!--DATE-->/📅 $DATE/g" README.md
+          sed -i.bak "s/<!--DATE-->/📅 Today's Date: $DATE/g" README.md
           
           # Remove the backup file created by sed
           rm README.md.bak
+
+      - name: Set up GitHub credentials
+        run: |
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
       - name: Commit changes
         run: |
