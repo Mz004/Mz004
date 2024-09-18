@@ -9,6 +9,7 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3  # Updated to v3
@@ -24,14 +25,19 @@ jobs:
           # Remove the backup file created by sed
           rm README.md.bak
 
-      - name: Set up GitHub credentials
-        run: |
-          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-
-      - name: Commit changes
+      - name: Set up Git credentials
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+      
+      - name: Commit changes
+        run: |
           git add README.md
           git commit -m "Updated date in README to $DATE"
+
+      - name: Push changes
+        env:
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}  # Use your secret here
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/${{ github.repository }}.git
           git push
