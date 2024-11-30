@@ -39,7 +39,7 @@
 
 ### 📫 How to Reach Me:
 - ✉️ **Email**: [manavzadafiya@gmail.com](mailto:manavzadafiya@gmail.com)
-- 🖥️ **Website**: [Manav Zadafiya](http://manavzadafiya.com) *(Under Development)*
+- 🖥️ **Website**: [Manav Zadafiya](http://manavzadafiya.com)
 - 📲 **Connect with Me**: 
   <span>
     <a href="https://www.linkedin.com/in/manav-zadafiya" target="_blank" rel="noreferrer">
