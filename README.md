@@ -38,7 +38,7 @@
 ---
 
 ### 📫 How to Reach Me:
-- ✉️ **Email**: [manavzadafiya@gmail.com](mailto:manavzadafiya@gmail.com)
+- ✉️ **Email**: [email](mailto:manavzadafiya@gmail.com)
 - 🖥️ **Website**: [Manav Zadafiya](http://manavzadafiya.com)
 - 📲 **Connect with Me**: 
   <span>
