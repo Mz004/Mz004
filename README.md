@@ -4,7 +4,7 @@
   🎓 I'm currently a student at ***Seneca Polytechnic***, driven by a passion for programming and building projects. I'm constantly learning, exploring new technologies, and striving to grow as a developer. 🚀
 
 </div>
-  🌱 <strong>Currently Learning: </strong>Java for Desktop application development along with enhancing my web development skills.
+  🌱 <strong>Currently Learning: </strong>Data Science for AI/ML along with enhancing my web development skills.
 
 ---
 
@@ -31,9 +31,10 @@
 ---
 
 ### 💬 Open to Collaborate On:
-- Web Development
+- Full Stack Development - MERN
 - Open Source Projects
-- Backend Development
+- Data Science
+- AI/ML
 
 ---
 
@@ -60,12 +61,11 @@
 <!--### 📈 GitHub Stats:
 ![Manav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mz004&show_icons=true&theme=radical)-->
 
-<!-- ### Languages Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mz004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mz004&theme=radical)
 
+### Languages Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mz004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- ### Daily Visitors:
 [![](https://visitcount.itsvg.in/api?id=Mz004&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
