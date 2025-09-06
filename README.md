@@ -82,8 +82,8 @@
 ### 💬 Open to Collaborate On:
 - Full Stack Development - MERN
 - Open Source Projects
-- Data Science
-- AI/ML
+- Data Analysis
+- Data-Science/AI/ML
 
 ---
 
