@@ -1,6 +1,6 @@
 <div align="center">
   <h1><strong>Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" /> I'm Manav Zadafiya</strong></h1>
-  🎓 Currently breaking more things that building. 
+  🎓 Currently breaking more things than building. 
 </div>
 
 ---
